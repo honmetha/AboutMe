@@ -140,3 +140,7 @@ body {
 
 .menu {
   outline: none; }
+
+a {
+  color: black;
+}

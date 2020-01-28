@@ -141,6 +141,18 @@ body {
 .menu {
   outline: none; }
 
+
+
 a {
   color: black;
+}
+
+.fa-line {
+  font-size: 51px;
+}
+
+.justifyCenter {
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }

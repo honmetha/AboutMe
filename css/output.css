@@ -153,16 +153,11 @@ a {
   font-size: 50px;
 }
 
-.fa-line:hover {
-  transition: color 0.3s;
-  color: rgba(255, 255, 255, 0.7);
-}
-
 .fa-file-alt {
   font-size: 45px;
 }
 
-.fa-file-alt:hover {
+.honHover:hover {
   transition: color 0.3s;
   color: rgba(255, 255, 255, 0.7);
 }
